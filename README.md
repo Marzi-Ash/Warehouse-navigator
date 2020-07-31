@@ -1,5 +1,5 @@
 # Warehouse-navigator
-To compile, compile the SourceCode/main.py with python 2.7	
+1)To compile, compile the SourceCode/main.py with python 2.7	
 
 2)Before compile you need to install the PyQt4, numpy and Collections packages for python
 
@@ -13,3 +13,6 @@ To compile, compile the SourceCode/main.py with python 2.7
 Paradiso beta release can accept start and end points, find the location of list of the products, find orders in a file and
 compute the best available route from the start point to the end point including all the products. Also, it has a very secure 
 way of sign-in.
+
+You can find user manual and developer manual in the documentation folder as well.
+
