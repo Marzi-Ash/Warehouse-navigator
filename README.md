@@ -1,4 +1,8 @@
 # Warehouse-navigator
+This application is designed with python which can be used in warehouses to find the fastest rout for a worker. The worker can enter up to 15 products and his/her start and end point to the application. The application will find the rout starting from the start point and collecting all the products and end at the desired end point. Three different algorithms are used in this application. For detailed explanation refer to the developer's manual in the documentation folder. 
+
+In order to bunderstand working with the application you need to:
+
 1)To compile, compile the SourceCode/main.py with python 2.7	
 
 2)Before compile you need to install the PyQt4, numpy and Collections packages for python
@@ -14,5 +18,5 @@ Paradiso beta release can accept start and end points, find the location of list
 compute the best available route from the start point to the end point including all the products. Also, it has a very secure 
 way of sign-in.
 
-You can find user manual and developer manual in the documentation folder as well.
+For further information please read the user's manual in the documentation folder.
 
